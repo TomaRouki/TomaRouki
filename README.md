@@ -1,8 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://tomarouki.io)
 <h1 align="center">Hi 👋, I'm De Sousa Thomas</h1>
 <h3 align="center">A passionate developer from France</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/6876788/96633009-d1818000-1318-11eb-9f1d-7f914f4ccb16.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomarouki&label=Profile%20views&color=0e75b6&style=flat" alt="tomarouki" /> </p>
 
