@@ -1,8 +1,8 @@
 # Bienvenue sur tomarouki 👋
 
-- 📫 Contactez-moi sur **remi@drakona.fr**
+- 📫 Contactez-moi sur **thomas.de.sousa@outlook.fr**
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+[![tomarouki](https://github-profile-trophy.vercel.app/?username=tomarouki&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Me retrouver
 
@@ -43,6 +43,6 @@
 
 ## Quelques stats
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=dreeckan&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tomarouki&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dreeckan&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomarouki&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
