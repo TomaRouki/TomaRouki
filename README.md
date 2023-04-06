@@ -35,9 +35,6 @@
 [![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=Nest.js&logoColor=00DC82)](https://nestjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=F24E1E)](https://www.nextjs.org/)
 
-
-## Quelques stats
-
 <h1 align="center"> :tada: Statistics :tada: </h1>
 <p align="center">
   <a href="https://github.com/AnthonyARJONA">
