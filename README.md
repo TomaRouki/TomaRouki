@@ -37,8 +37,8 @@
 
 <h1 align="center"> :tada: Statistics :tada: </h1>
 <p align="center">
-  <a href="https://github.com/AnthonyARJONA">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnthonyARJONA&show_icons=false&bg_color=0d1117&text_color=ededed&border_color=5a5a5a" height="165">
+  <a href="https://github.com/TomaRouki">
+    <img src="https://github-readme-stats.vercel.app/api?username=TomaRouki&show_icons=false&bg_color=0d1117&text_color=ededed&border_color=5a5a5a" height="165">
   </a>
   <a href="https://github.com/TomaRouki">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyARJONA&layout=compact&bg_color=0d1117&text_color=ededed&border_color=444"  height="165">
