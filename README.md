@@ -38,6 +38,23 @@
 
 ## Quelques stats
 
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=tomarouki&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomarouki&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+<h1 align="center"> :tada: Statistics :tada: </h1>
+<p align="center">
+  <a href="https://github.com/AnthonyARJONA">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnthonyARJONA&show_icons=false&bg_color=0d1117&text_color=ededed&border_color=5a5a5a" height="165">
+  </a>
+  <a href="https://github.com/TomaRouki">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyARJONA&layout=compact&bg_color=0d1117&text_color=ededed&border_color=444"  height="165">
+  </a>
+</p>
+<h1 align="center"> :fire: Contributions :fire: </h1>
+<p align="center">
+  <a href="https://github.com/TomaRouki">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=TomaRouki&theme=react&background=0d1117&border=666">
+  </a>  
+</p>
+<div align="center">
+  <a href="https://github.com/TomaRouki">
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=aHR0cHM6Ly9naXRodWIuY29tL0FudGhvbnlBUkpPTkEv&style=for-the-badge">
+  </a>
+</div>
