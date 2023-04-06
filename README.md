@@ -6,7 +6,7 @@
 
 ## Me retrouver
 
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/tomarouki-yt/)
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=LinkedIn&logoColor=FFF)](https://www.linkedin.com/in/thomas-de-sousa-187b08189/?originalSubdomain=fr)
 
 ## Languages et outils
 
