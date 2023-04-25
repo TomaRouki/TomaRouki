@@ -31,8 +31,9 @@
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=4FC08D)](https://typescript.org/)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4FC08D)](https://react.org/)
-[![Nest.js](https://img.shields.io/badge/-Nest.js-000?&logo=Nest.js&logoColor=00DC82)](https://nestjs.org/)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&logoColor=00DC82)](https://nestjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=F24E1E)](https://www.nextjs.org/)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F24E1E)](https://www.docker.org/)
 
 <h1 align="center"> :tada: Statistics :tada: </h1>
 <p align="center">
