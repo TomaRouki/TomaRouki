@@ -41,7 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TomaRouki&show_icons=false&bg_color=0d1117&text_color=ededed&border_color=5a5a5a" height="165">
   </a>
   <a href="https://github.com/TomaRouki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyARJONA&layout=compact&bg_color=0d1117&text_color=ededed&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaRouki&layout=compact&bg_color=0d1117&text_color=ededed&border_color=444"  height="165">
   </a>
 </p>
 <h1 align="center"> :fire: Contributions :fire: </h1>
