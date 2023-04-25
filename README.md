@@ -2,8 +2,6 @@
 
 - 📫 Contactez-moi sur **thomas.de.sousa@outlook.fr**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TomaRouki&theme=onedark&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=FFF)](https://www.linkedin.com/in/thomas-de-sousa-187b08189/)
@@ -35,23 +33,3 @@
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F24E1E)](https://www.docker.org/)
 [![TypeORM](https://img.shields.io/badge/-Typeorm-000?&logo=typeorm&logoColor=F24E1E)](https://www.typeorm.org/)
 
-<h1 align="center"> :tada: Statistics :tada: </h1>
-<p align="center">
-  <a href="https://github.com/TomaRouki">
-    <img src="https://github-readme-stats.vercel.app/api?username=TomaRouki&show_icons=false&bg_color=0d1117&text_color=ededed&border_color=5a5a5a" height="165">
-  </a>
-  <a href="https://github.com/TomaRouki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaRouki&layout=compact&bg_color=0d1117&text_color=ededed&border_color=444"  height="165">
-  </a>
-</p>
-<h1 align="center"> :fire: Contributions :fire: </h1>
-<p align="center">
-  <a href="https://github.com/TomaRouki">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=TomaRouki&theme=react&background=0d1117&border=666">
-  </a>  
-</p>
-<div align="center">
-  <a href="https://github.com/TomaRouki">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=aHR0cHM6Ly9naXRodWIuY29tL0FudGhvbnlBUkpPTkEv&style=for-the-badge">
-  </a>
-</div>
