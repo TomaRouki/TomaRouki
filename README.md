@@ -17,7 +17,6 @@
 
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FFF)](https://laravel.com)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
@@ -34,6 +33,7 @@
 [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&logoColor=00DC82)](https://nestjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=F24E1E)](https://www.nextjs.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F24E1E)](https://www.docker.org/)
+[![TypeORM](https://img.shields.io/badge/-typeorm-000?&logo=typeorm&logoColor=F24E1E)](https://www.typeorm.org/)
 
 <h1 align="center"> :tada: Statistics :tada: </h1>
 <p align="center">
