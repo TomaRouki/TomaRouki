@@ -13,9 +13,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
@@ -29,7 +26,6 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=4FC08D)](https://typescript.org/)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4FC08D)](https://react.org/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&logoColor=00DC82)](https://nestjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=F24E1E)](https://www.nextjs.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F24E1E)](https://www.docker.org/)
 [![TypeORM](https://img.shields.io/badge/-Typeorm-000?&logo=typeorm&logoColor=F24E1E)](https://www.typeorm.org/)
 [![Makefile](https://img.shields.io/badge/-Makefile-000?&logo=Makefile&logoColor=F24E1E)](https://www.Makefile.org/)
