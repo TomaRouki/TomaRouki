@@ -31,4 +31,4 @@
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=4FC08D)](https://react.org/)
 [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&logoColor=00DC82)](https://nestjs.org/)
 [![SequalizeORM](https://img.shields.io/badge/-Sequalizeorm-000?&logo=sequalizeorm&logoColor=F24E1E)](https://www.sequalizeorm.org/)
-[![Zod](https://img.shields.io/badge/-Zod-000?&logo=zod&logoColor=F24E1E)](https://www.zod.org/)
+[![Zod](https://img.shields.io/badge/-Zod-000?&logo=zod&logoColor=F24E1E)](https://zod.dev/)
