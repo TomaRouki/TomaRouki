@@ -32,3 +32,4 @@
 [![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs&logoColor=00DC82)](https://nestjs.org/)
 [![SequalizeORM](https://img.shields.io/badge/-Sequalizeorm-000?&logo=sequalizeorm&logoColor=F24E1E)](https://www.sequalizeorm.org/)
 [![Zod](https://img.shields.io/badge/-Zod-000?&logo=zod&logoColor=F24E1E)](https://zod.dev/)
+[![Zod](https://img.shields.io/badge/-Prisma-000?&logo=prisma&logoColor=F24E1E)](https://prisma.dev/)
